@@ -4,7 +4,7 @@ import random
 
 # CONSTANTS
 base_url = "https://gorest.co.in"
-auth_token = "Bearer 9afd58bb7bb106724a34d79d6aa998db35e25bd9bb28aedf21f905967f2960b4"
+auth_token = "Bearer ACCESS TOKEN"
 
 
 # RANDOM EMAIL ADDRESS GENERATOR
